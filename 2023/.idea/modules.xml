@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2023.iml" filepath="$PROJECT_DIR$/.idea/2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AAA_Start/AAA_Start.iml" filepath="$PROJECT_DIR$/AAA_Start/AAA_Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bankomat/2023/AAA_Start/AAA_Start1.iml" filepath="$PROJECT_DIR$/Bankomat/2023/AAA_Start/AAA_Start1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bankomat/Bankomat.iml" filepath="$PROJECT_DIR$/Bankomat/Bankomat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Caeserverschluesselung/Caeserverschluesselung.iml" filepath="$PROJECT_DIR$/Caeserverschluesselung/Caeserverschluesselung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bankomat/2023/Caeserverschluesselung/Caeserverschluesselung1.iml" filepath="$PROJECT_DIR$/Bankomat/2023/Caeserverschluesselung/Caeserverschluesselung1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bankomat/2023/DiceGame/DiceGame.iml" filepath="$PROJECT_DIR$/Bankomat/2023/DiceGame/DiceGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiceGame/DiceGame1.iml" filepath="$PROJECT_DIR$/DiceGame/DiceGame1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_Helper/String_Helper.iml" filepath="$PROJECT_DIR$/String_Helper/String_Helper.iml" />
+    </modules>
+  </component>
+</project>
