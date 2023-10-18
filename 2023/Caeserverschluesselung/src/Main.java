@@ -20,7 +20,13 @@ public class Main {
         char[] inputData = stringToEncrypt.toCharArray();
 
         for (int i = 0; i < inputData.length; i++) {
+            if(inputData[i] >= 122) {
+                inputData[i] = 96;
+            }
             int letter = inputData[i] + shift;
+            if(inputData[i] == 91 ||inputData[i] == 92 ||inputData[i] == 93 ||inputData[i] == 94 ||inputData[i] == 95 ||inputData[i] == 96){
+                inputData[i] = 64;
+            }
             encryptedString += Character.toString(letter);
         }
 
